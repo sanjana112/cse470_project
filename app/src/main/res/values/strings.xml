@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">BD Blood Bank</string>
+    <string name="donate">Donate Blood</string>
+    <string name="receive">Search Blood</string>
+    <string name="BD_Plasma_Bank">BD Blood Bank</string>
+    <string name="about_button">About</string>
+    <string name="about">সম্পর্কিত</string>
+    <string name="about_dis">description</string>
+    <string name="rate">Rate Application</string>
+    <string name="login">Login</string>
+    <string name="sign_up_account">Sign up</string>
+    <string name="username">নাম :</string>
+    <string name="phone_number">phone number</string>
+    <string name="blood_group">রক্তের গ্রুপ :</string>
+    <string name="district">বিভাগ :</string>
+    <string name="sub_district">জেলা :</string>
+    <string name="gender">লিঙ্গ :</string>
+    <string name="user">Email</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="logout">LOGOUT</string>
+    <string name="number">ফোন নাম্বার : </string>
+    <string name="dis">This is the alpha version of the App.Brought to you.
+        \n \n
+
+Please do not expect full functionality rather this helps in a very simple way
+It will allow you to find the user and his/her contact info for plasma donor
+You are one of the tester and we expect your review on our app which you can
+submit through the Feedback section of the app. \n
+
+</string>
+    <string-array name="blood_group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string-array name="jela">
+        <item>Dhaka</item>
+        <item>CTG</item>
+        <item>KHULNA</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+    <string-array name="UDhaka">
+        <item>dhaka</item>
+        <item>gazipur</item>
+        <item>gopalganj</item>
+        <item>kishorganj</item>
+        <item>madaripur</item>
+        <item>manikganj</item>
+        <item>munsiganj</item>
+        <item>narayanganj</item>
+        <item>rajbari</item>
+        <item>shariatpur</item>
+        <item>faridpur</item>
+        <item>tangail</item>
+        <item>narshindi</item>
+    </string-array>
+
+    <string-array name="Uctg">
+        <item>bandarban</item>
+        <item>brahmanbaria</item>
+        <item>chadpur</item>
+        <item>chattogram</item>
+        <item>cumilla</item>
+        <item>cox bazar</item>
+        <item>feni</item>
+        <item>khagrachhari</item>
+        <item>lakshmipur</item>
+        <item>noakhali</item>
+        <item>rangamati</item>
+    </string-array>
+    <string-array name="Ukhul">
+        <item>habiganj</item>
+        <item>moulvibazar</item>
+        <item>sunamganj</item>
+        <item>sylhet</item>
+    </string-array>
+</resources>
